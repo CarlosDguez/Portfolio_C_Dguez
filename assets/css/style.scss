@@ -39,3 +39,12 @@ body,
 body * {
   font-family: "Times New Roman", Times, serif !important;
 }
+/* Insignias de herramientas y tipos de proyecto */
+img[src*="img.shields.io"] {
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 4px 8px 0;
+  vertical-align: middle;
+  border: none;
+}
