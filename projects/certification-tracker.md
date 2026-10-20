@@ -19,8 +19,13 @@ The project consolidated evidence from multiple sources to identify compliance g
 
 ## Tools and Project Type
 
-Power BI | Power Query | Multi-source Data Merging and Consolidation | Data Visualization | KPI Monitoring | Compliance Analysis | Supplier Quality
-
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
+![Data Consolidation](https://img.shields.io/badge/Data_Consolidation-295F98?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-295F98?style=for-the-badge)
+![KPI Monitoring](https://img.shields.io/badge/KPI_Monitoring-295F98?style=for-the-badge)
+![Compliance Analysis](https://img.shields.io/badge/Compliance_Analysis-295F98?style=for-the-badge)
+![Supplier Quality](https://img.shields.io/badge/Supplier_Quality-295F98?style=for-the-badge)
 ## Key Questions
 
 - What is each supplier’s compliance level, and what evidence supports that classification?
