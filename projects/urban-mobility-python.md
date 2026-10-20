@@ -101,8 +101,7 @@ The project demonstrated how to transform traffic observations and economic reco
   <a class="nav-home" href="{{ '/' | relative_url }}">
     ← Home
   </a>
-  <a class="nav-next"
-     href="{{ '/projects/certification-tracker.html' | relative_url }}">
-    First project →
+  <a class="nav-next" href="{{ '/' | relative_url }}">
+    Home →
   </a>
 </nav>
