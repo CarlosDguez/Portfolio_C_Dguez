@@ -21,6 +21,7 @@ The project consolidated evidence from multiple sources to identify compliance g
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
+
 ![Data Consolidation](https://img.shields.io/badge/Data_Consolidation-295F98?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-295F98?style=for-the-badge)
 ![KPI Monitoring](https://img.shields.io/badge/KPI_Monitoring-295F98?style=for-the-badge)
