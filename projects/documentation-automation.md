@@ -19,7 +19,14 @@ The project automated recurring reminders for Supplier Quality and Development E
 
 ## Tools and Project Type
 
-Power Automate | Office Scripts | Microsoft Excel | Microsoft Outlook | HTML | Workflow Automation | Conditional Data Extraction | Personalized Email Notifications | Documentation and Audit Follow-up
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
+
+![Interactive Dashboards](https://img.shields.io/badge/Interactive_Dashboards-174A6E?style=for-the-badge)
+![KPI Monitoring](https://img.shields.io/badge/KPI_Monitoring-174A6E?style=for-the-badge)
+![Historical and LTM Analysis](https://img.shields.io/badge/Historical_and_LTM_Analysis-174A6E?style=for-the-badge)
+![Aging Analysis](https://img.shields.io/badge/Aging_Analysis-174A6E?style=for-the-badge)
+![Supplier Quality Analytics](https://img.shields.io/badge/Supplier_Quality_Analytics-174A6E?style=for-the-badge)
+![RMA and Cost Recovery](https://img.shields.io/badge/RMA_and_Cost_Recovery-174A6E?style=for-the-badge)
 
 ## Key Questions
 
