@@ -19,7 +19,16 @@ The project combined Power Automate, Office Scripts, and Excel with a documented
 
 ## Tools and Project Type
 
-Power Automate | Office Scripts | Microsoft Excel | Microsoft Outlook | Personalized Email Automation | Conditional Recipient Routing | Business-Day Tracking | Escalation Management | Process Documentation
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
+![Office Scripts](https://img.shields.io/badge/Office_Scripts-185ABD?style=for-the-badge)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge)
+![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-6750A4?style=for-the-badge)
+![Conditional Data Extraction](https://img.shields.io/badge/Conditional_Data_Extraction-6750A4?style=for-the-badge)
+![Personalized Email Notifications](https://img.shields.io/badge/Personalized_Email_Notifications-6750A4?style=for-the-badge)
+![Documentation and Audit Follow-up](https://img.shields.io/badge/Documentation_and_Audit_Follow--up-6750A4?style=for-the-badge)
 
 ## Key Questions
 
