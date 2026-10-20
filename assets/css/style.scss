@@ -33,3 +33,9 @@ body * {
   font-size: 16px;
   font-weight: 700;
 }
+/* Fuente para todo el sitio, incluida la página principal */
+html,
+body,
+body * {
+  font-family: "Times New Roman", Times, serif !important;
+}
