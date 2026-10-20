@@ -49,6 +49,6 @@ img[src*="img.shields.io"] {
   border: none;
 }
 /* Oculta el mensaje de mantenimiento en todas las páginas */
-footer > p:first-child {
+footer {
   display: none !important;
 }
