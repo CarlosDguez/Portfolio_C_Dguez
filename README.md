@@ -1,45 +1,74 @@
-# Portafolio de Carlos Raúl Domínguez Aragón
+# Carlos Raúl Domínguez Aragón
+## Data Analysis, Business Intelligence & Workflow Automation Portfolio
 
-Base para GitHub Pages con el tema Minimal. El contenido se adaptó de Portfolio.docx; conserva los cinco proyectos en inglés, las 18 capturas adjuntas y la nueva fotografía de perfil con recorte circular de mayor resolución. La portada resume cada caso y enlaza al desarrollo completo.
+Welcome to my portfolio. This repository brings together five case studies showing how I use data analysis, dashboards, and workflow automation to support supplier quality, compliance monitoring, operational follow-up, and decision-making.
 
-## Publicación desde el navegador
+My background combines clinical laboratory operations, supplier quality, and continuous improvement. I focus on turning operational information into clear insights, organized records, and practical workflows.
 
-1. Revisa las capturas antes de subirlas a un repositorio público. Los tableros RMA todavía muestran montos; PPAP contiene números de parte y descripciones. Sustituye esos datos si no puedes divulgarlos. Los archivos de este paquete conservan las imágenes que proporcionaste.
-2. Crea un repositorio público llamado exactamente TU_USUARIO.github.io, usando tu nombre de usuario de GitHub. Inicialízalo con un README. Si ya existe, úsalo sin borrar su contenido; integra o respalda los archivos que tengan el mismo nombre.
-3. Descomprime el paquete. Abre la carpeta portfolio-github y sube su CONTENIDO a la raíz del repositorio, no el ZIP ni la carpeta contenedora. Usa Add file → Upload files, arrastra archivos y carpetas y confirma el commit en main.
-4. Debes ver _config.yml, index.md, assets y projects directamente en la raíz. README.md y MAPA_IMAGENES.md son instrucciones; se excluyen del sitio.
-5. En Settings → Pages, elige Deploy from a branch, main y /(root); guarda.
-6. Espera la publicación. Revisa el proceso de Pages en Actions y abre https://TU_USUARIO.github.io/.
-7. Verifica las cinco páginas, imágenes ampliadas, LinkedIn y correo. Puedes editar cualquier .md con el lápiz de GitHub y guardar con Commit changes.
+[Explore the portfolio overview](index.md) · [LinkedIn](https://www.linkedin.com/in/carlos-ra%C3%BAl-dom%C3%ADnguez-arag%C3%B3n-370759336/) · [Email](mailto:carlosraul.dominguez@hotmail.es)
 
-La guía Word explica los pasos, el mapa de archivos y las mejoras sugeridas con más detalle. No está incluido un CV PDF ni un notebook: agrega enlaces solamente cuando esos archivos o repositorios existan.
+## Featured Projects
 
-## Qué editar
+### 1. Certification Tracker: Supplier Compliance Analysis and Monitoring
 
-- _config.yml: nombre, descripción y foto lateral. La configuración usa theme: jekyll-theme-minimal.
-- index.md: presentación, habilidades, contacto y resúmenes.
-- projects/*.md: contenido completo de cada proyecto.
-- assets/img/: capturas originales renombradas y foto.
-- assets/css/style.scss: ajustes mínimos de legibilidad; conserva las dos líneas --- iniciales y el @import.
+Two Power BI dashboards consolidate supplier certifications, audit records, and compliance evidence to support compliance assessment and weekly follow-up.
 
-No agregues .nojekyll: esta base utiliza Jekyll. Evita un index.html paralelo; index.md es la portada. No subas el Word esperando que se convierta automáticamente en una web.
+**Tools:** Power BI, Power Query.  
+**Focus:** Data consolidation, KPI monitoring, compliance analysis, and supplier quality.
 
-## Alcance de la verificación
+[Read the full case study](projects/certification-tracker.md)
 
-Se revisaron la configuración YAML, rutas locales, referencias de imágenes, contenido de los cinco proyectos y coincidencia de las imágenes con sus originales. Esta base no se ha publicado en tu cuenta ni se ha compilado en GitHub Pages; la compilación y revisión en móvil se completan después de subirla.
+### 2. SCAR and RMA Tracker: Supplier Quality and Cost Recovery Across the Americas
 
-## Evidencia adicional recomendable
+Four Power BI dashboards connect Supplier Corrective Action Request (SCAR) progress, closure deadlines, nonconforming parts, and Return Material Authorization (RMA) cost recovery across the Americas.
 
-- Power BI: captura del modelo, preparación en Power Query o medida representativa, con datos aptos para difusión.
-- Power Automate: captura del flujo y sus condiciones. Los correos muestran el resultado, no toda la implementación.
-- Python: notebook con salidas, dispersión con unidades claras y README de ejecución. Conserva la identificación de proyecto académico; jams_delay es una medida agregada, no el retraso de una persona.
-- No cuentes diez capturas de correo como diez flujos: el Word describe seis flujos documentales y dos de seguimiento con rutas condicionales.
+**Tools:** Power BI.  
+**Focus:** Interactive dashboards, historical and LTM analysis, aging analysis, supplier performance, and RMA tracking.
 
-## Referencias
+[Read the full case study](projects/scar-rma-tracker.md)
 
-- https://malegoma.github.io/
-- https://docs.github.com/en/pages/quickstart
-- https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
-- https://github.com/pages-themes/minimal
-- https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository
-- https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-publish-to-web
+### 3. Supplier Quality Workflow Automation: Documentation and Audit Follow-up
+
+Six scheduled workflows use Excel records to generate targeted notifications for supplier certifications, audits, PPAP documentation, and SCAR closure reviews.
+
+**Tools:** Power Automate, Office Scripts, Microsoft Excel, Microsoft Outlook, HTML.  
+**Focus:** Conditional data extraction, personalized notifications, documentation traceability, and audit follow-up.
+
+[Read the full case study](projects/documentation-automation.md)
+
+### 4. Automated SCAR Follow-up and Escalation Management
+
+Automated supplier summaries and internal reminders support corrective action follow-up, with notification paths based on case age, status, and a documented escalation matrix.
+
+**Tools:** Power Automate, Office Scripts, Microsoft Excel, Microsoft Outlook.  
+**Focus:** Email automation, conditional recipient routing, business-day tracking, and escalation management.
+
+[Read the full case study](projects/scar-escalation.md)
+
+### 5. Urban Mobility and Economic Performance: Data Preparation and Exploratory Analysis with Python
+
+A TripleTen academic project combining traffic and economic data into a unified 2024 dataset covering 15 Latin American cities. Exploratory analysis compares urban mobility and economic profiles to support further investigation.
+
+**Tools:** Python, Pandas, Seaborn, Matplotlib, Jupyter Notebook.  
+**Focus:** Data cleaning, aggregation, dataset merging, exploratory analysis, and visualization.
+
+[Read the full case study](projects/urban-mobility-python.md)
+
+## Technical Skills
+
+- **Data analysis and management:** Excel, SQL, Python.
+- **Business intelligence and visualization:** Power BI, KPI reporting, dashboard development, Seaborn, Matplotlib.
+- **Data preparation:** Power Query, Pandas, data cleaning, validation, and consolidation.
+- **Workflow automation:** Power Automate, Office Scripts, conditional notifications, and operational follow-up.
+- **Supplier quality:** SCAR and PPAP follow-up, compliance monitoring, document management, and supplier performance analysis.
+
+## What You Will Find
+
+Each case study presents the business objective, tools, key questions, methodology, results, and supporting visuals. The repository contains the portfolio pages and visual evidence; the Python case study is identified as an academic project.
+
+## Contact
+
+I am interested in opportunities in data analysis, business intelligence, workflow automation, and supplier quality.
+
+- **LinkedIn:** [Carlos Raúl Domínguez Aragón](https://www.linkedin.com/in/carlos-ra%C3%BAl-dom%C3%ADnguez-arag%C3%B3n-370759336/)
+- **Email:** [carlosraul.dominguez@hotmail.es](mailto:carlosraul.dominguez@hotmail.es)
