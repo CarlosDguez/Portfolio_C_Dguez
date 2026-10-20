@@ -96,3 +96,4 @@ The project demonstrated how to transform traffic observations and economic reco
 ---
 
 [← Back to all projects]({{ '/' | relative_url }})
+<script src="{{ '/assets/js/lightbox.js' | relative_url }}" defer></script>
