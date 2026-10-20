@@ -19,7 +19,16 @@ The project connected supplier performance, resolution timelines, defective part
 
 ## Tools and Project Type
 
-Power BI | Interactive Dashboards | KPI Monitoring | Historical and LTM Analysis | Aging Analysis | Supplier Quality Analytics | RMA and Cost Recovery Tracking
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
+![Office Scripts](https://img.shields.io/badge/Office_Scripts-185ABD?style=for-the-badge)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge)
+![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge)
+
+![Personalized Email Automation](https://img.shields.io/badge/Personalized_Email_Automation-087E8B?style=for-the-badge)
+![Conditional Recipient Routing](https://img.shields.io/badge/Conditional_Recipient_Routing-087E8B?style=for-the-badge)
+![Business-Day Tracking](https://img.shields.io/badge/Business--Day_Tracking-087E8B?style=for-the-badge)
+![Escalation Management](https://img.shields.io/badge/Escalation_Management-087E8B?style=for-the-badge)
+![Process Documentation](https://img.shields.io/badge/Process_Documentation-087E8B?style=for-the-badge)
 
 ## Key Questions
 
