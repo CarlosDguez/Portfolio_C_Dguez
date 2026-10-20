@@ -52,3 +52,71 @@ img[src*="img.shields.io"] {
 footer {
   display: none !important;
 }
+/* Cursor para las capturas que pueden ampliarse */
+.lightbox-trigger,
+.lightbox-trigger img {
+  cursor: zoom-in;
+}
+
+/* Evita desplazar la página mientras la imagen está abierta */
+html.lightbox-open {
+  overflow: hidden;
+}
+
+/* Ventana de la imagen */
+dialog.image-lightbox {
+  box-sizing: border-box;
+  width: fit-content;
+  max-width: 96vw;
+  max-height: 94vh;
+  margin: auto;
+  padding: 48px 12px 12px;
+  border: none;
+  border-radius: 12px;
+  background: #ffffff;
+  overflow: auto;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.45);
+}
+
+/* Fondo oscuro */
+dialog.image-lightbox::backdrop {
+  background: rgba(0, 0, 0, 0.8);
+}
+
+/* Imagen ampliada, adaptada a la pantalla */
+dialog.image-lightbox img {
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: 88vw;
+  max-height: 78vh;
+  margin: auto;
+  object-fit: contain;
+  border: none;
+}
+
+/* Botón para cerrar */
+.image-lightbox-close {
+  position: absolute;
+  top: 8px;
+  right: 10px;
+  width: 34px;
+  height: 34px;
+  padding: 0;
+  border: none;
+  border-radius: 50%;
+  background: #172b4d;
+  color: #ffffff;
+  font-size: 22px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.image-lightbox-close:hover {
+  background: #295f98;
+}
+
+.image-lightbox-close:focus-visible {
+  outline: 3px solid #1265a8;
+  outline-offset: 3px;
+}
