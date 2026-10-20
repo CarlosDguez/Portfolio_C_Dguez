@@ -147,3 +147,4 @@ Developed four complementary dashboards that brought together corrective action 
 ---
 
 [← Back to all projects]({{ '/' | relative_url }})
+<script src="{{ '/assets/js/lightbox.js' | relative_url }}" defer></script>
