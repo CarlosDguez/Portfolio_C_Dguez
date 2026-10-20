@@ -17,3 +17,19 @@ figcaption { margin-top: 0.45rem; font-size: 0.85rem; color: #596576; }
 .project-nav { font-size: 0.9rem; }
 table { display: block; max-width: 100%; overflow-x: auto; }
 td, th { min-width: 120px; }
+html,
+body,
+body * {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.case-study-cta {
+  text-align: center;
+}
+
+.case-study-cta a,
+.case-study-cta a:hover,
+.case-study-cta a:focus {
+  font-size: 16px;
+  font-weight: 700;
+}
