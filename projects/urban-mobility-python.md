@@ -97,3 +97,12 @@ The project demonstrated how to transform traffic observations and economic reco
 
 [← Back to all projects]({{ '/' | relative_url }})
 <script src="{{ '/assets/js/lightbox.js' | relative_url }}" defer></script>
+<nav class="project-side-nav" aria-label="Project navigation">
+  <a class="nav-home" href="{{ '/' | relative_url }}">
+    ← Home
+  </a>
+  <a class="nav-next"
+     href="{{ '/projects/certification-tracker.html' | relative_url }}">
+    First project →
+  </a>
+</nav>
