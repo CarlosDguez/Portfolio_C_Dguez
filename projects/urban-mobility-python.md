@@ -19,7 +19,16 @@ The project focused on preparing a unified dataset and identifying contrasting c
 
 ## Tools and Project Type
 
-Python | Pandas | Seaborn | Matplotlib | Jupyter Notebook | Data Cleaning | Data Aggregation | Dataset Merging | Exploratory Data Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-295F98?style=for-the-badge)
+![Data Aggregation](https://img.shields.io/badge/Data_Aggregation-295F98?style=for-the-badge)
+![Dataset Merging](https://img.shields.io/badge/Dataset_Merging-295F98?style=for-the-badge)
+![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory_Data_Analysis-295F98?style=for-the-badge)
 
 ## Key Questions
 
