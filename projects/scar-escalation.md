@@ -132,3 +132,4 @@ The solution made outstanding actions visible, directed reminders to the appropr
 ---
 
 [← Back to all projects]({{ '/' | relative_url }})
+<script src="{{ '/assets/js/lightbox.js' | relative_url }}" defer></script>
