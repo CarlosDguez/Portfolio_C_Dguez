@@ -120,3 +120,62 @@ dialog.image-lightbox img {
   outline: 3px solid #1265a8;
   outline-offset: 3px;
 }
+/* Navegación lateral entre proyectos */
+.project-side-nav a {
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 100;
+
+  box-sizing: border-box;
+  width: 125px;
+  padding: 12px 10px;
+  border-radius: 8px;
+
+  background: #172b4d;
+  color: #ffffff;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.4;
+  text-align: center;
+  text-decoration: none;
+}
+
+.project-side-nav .nav-home {
+  left: 16px;
+}
+
+.project-side-nav .nav-next {
+  right: 16px;
+}
+
+.project-side-nav a:hover,
+.project-side-nav a:focus {
+  background: #295f98;
+  color: #ffffff;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.project-side-nav a:focus-visible {
+  outline: 3px solid #1265a8;
+  outline-offset: 4px;
+}
+
+/* En pantallas pequeñas, coloca los botones abajo */
+@media (max-width: 1280px) {
+  body:has(.project-side-nav) {
+    padding-bottom: 100px;
+  }
+
+  .project-side-nav a {
+    top: auto;
+    bottom: 16px;
+    transform: none;
+    width: auto;
+    max-width: 44%;
+    padding: 10px 14px;
+    font-size: 15px;
+  }
+}
