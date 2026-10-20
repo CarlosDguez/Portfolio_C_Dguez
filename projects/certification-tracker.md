@@ -97,3 +97,4 @@ Developed two complementary dashboards: one for comprehensive supplier complianc
 ---
 
 [← Back to all projects]({{ '/' | relative_url }})
+<script src="{{ '/assets/js/lightbox.js' | relative_url }}" defer></script>
