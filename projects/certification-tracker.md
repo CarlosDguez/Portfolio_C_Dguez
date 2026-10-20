@@ -98,3 +98,12 @@ Developed two complementary dashboards: one for comprehensive supplier complianc
 
 [← Back to all projects]({{ '/' | relative_url }})
 <script src="{{ '/assets/js/lightbox.js' | relative_url }}" defer></script>
+<nav class="project-side-nav" aria-label="Project navigation">
+  <a class="nav-home" href="{{ '/' | relative_url }}">
+    ← Home
+  </a>
+  <a class="nav-next"
+     href="{{ '/projects/scar-rma-tracker.html' | relative_url }}">
+    Next project →
+  </a>
+</nav>
