@@ -19,14 +19,16 @@ The project automated recurring reminders for Supplier Quality and Development E
 
 ## Tools and Project Type
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
+![Office Scripts](https://img.shields.io/badge/Office_Scripts-185ABD?style=for-the-badge)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge)
+![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-![Interactive Dashboards](https://img.shields.io/badge/Interactive_Dashboards-174A6E?style=for-the-badge)
-![KPI Monitoring](https://img.shields.io/badge/KPI_Monitoring-174A6E?style=for-the-badge)
-![Historical and LTM Analysis](https://img.shields.io/badge/Historical_and_LTM_Analysis-174A6E?style=for-the-badge)
-![Aging Analysis](https://img.shields.io/badge/Aging_Analysis-174A6E?style=for-the-badge)
-![Supplier Quality Analytics](https://img.shields.io/badge/Supplier_Quality_Analytics-174A6E?style=for-the-badge)
-![RMA and Cost Recovery](https://img.shields.io/badge/RMA_and_Cost_Recovery-174A6E?style=for-the-badge)
+![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-6750A4?style=for-the-badge)
+![Conditional Data Extraction](https://img.shields.io/badge/Conditional_Data_Extraction-6750A4?style=for-the-badge)
+![Personalized Email Notifications](https://img.shields.io/badge/Personalized_Email_Notifications-6750A4?style=for-the-badge)
+![Documentation and Audit Follow-up](https://img.shields.io/badge/Documentation_and_Audit_Follow--up-6750A4?style=for-the-badge)
 
 ## Key Questions
 
@@ -150,3 +152,12 @@ The solution standardized supplier and internal follow-up, made documentation ga
 
 [← Back to all projects]({{ '/' | relative_url }})
 <script src="{{ '/assets/js/lightbox.js' | relative_url }}" defer></script>
+<nav class="project-side-nav" aria-label="Project navigation">
+  <a class="nav-home" href="{{ '/' | relative_url }}">
+    ← Home
+  </a>
+  <a class="nav-next"
+     href="{{ '/projects/scar-escalation.html' | relative_url }}">
+    Next project →
+  </a>
+</nav>
