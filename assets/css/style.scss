@@ -1,0 +1,19 @@
+---
+---
+@import "{{ site.theme }}";
+
+body { color: #374151; line-height: 1.7; }
+h1, h2, h3 { color: #172b4d; line-height: 1.3; }
+h2 { margin-top: 2rem; }
+h3 { margin-top: 1.5rem; }
+a { color: #1265a8; }
+a:hover, a:focus { color: #084777; font-weight: normal; text-decoration: underline; }
+a:focus-visible { outline: 3px solid #1265a8; outline-offset: 3px; }
+header img { max-width: 160px; height: auto; }
+figure { margin: 1.3rem 0; }
+figure img { display: block; max-width: 100%; height: auto; border: 1px solid #e1e5eb; }
+figcaption { margin-top: 0.45rem; font-size: 0.85rem; color: #596576; }
+.project-preview img { max-height: 260px; object-fit: contain; object-position: left; }
+.project-nav { font-size: 0.9rem; }
+table { display: block; max-width: 100%; overflow-x: auto; }
+td, th { min-width: 120px; }

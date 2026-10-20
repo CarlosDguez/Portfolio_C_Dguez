@@ -1,0 +1,10 @@
+title: "Carlos Raúl Domínguez Aragón"
+description: "Data Analysis · Power BI · Power Automate · Python"
+theme: jekyll-theme-minimal
+logo: /assets/img/profile.png
+show_downloads: false
+lang: en
+markdown: kramdown
+exclude:
+  - README.md
+  - MAPA_IMAGENES.md
