@@ -7,19 +7,24 @@ title: "About me"
 
 # About me
 
-Professional with a B.S. in Chemical Bacteriology and Parasitology with experience in clinical laboratory operations, supplier quality, data analysis, and continuous improvement. Experienced in SCAR and PPAP follow-up, quality control, document management, supplier performance analysis, Power BI, and Power Automate. Able to translate operational data into executive reports, optimize workflows, and collaborate with quality, engineering, production, logistics, and IT teams in regional environments across the Americas.
+Professional with a B.S. in Chemical Bacteriology and Parasitology with experience in clinical laboratory operations, supplier quality, **data analysis**, and **continuous improvement**. Experienced in SCAR and PPAP follow-up, quality control, document management, **supplier performance analysis**, **Power BI**, and **Power Automate**. Able to translate **operational data into executive reports**, optimize workflows, and collaborate with quality, engineering, production, logistics, and IT teams in regional environments across the Americas.
 
 ## Technical skills
 
-- Data analysis and management using *Excel, SQL, Python*
+- Data analysis and management using **Excel, SQL, Python**
 
-- Data visualization, dashboards, and KPI reporting using Power BI
+- Data visualization, dashboards, and KPI reporting using **Power BI**
 
-- Workflow automation and data preparation using *Power Automate, Power Query,* and *Office Scripts*
+- Workflow automation and data preparation using **Power Automate, Power Query,** and **Office Scripts**
 
 ## Soft skills
 
-Analytical Thinking | Problem Solving | Effective Communication | Cross-functional Collaboration | Results Orientation | Organization | Initiative | Attention to Detail | Continuous Improvement | Working Under Pressure
+<div class="soft-skills">
+  Analytical Thinking | Problem Solving | Effective Communication |
+  Cross-functional Collaboration | Results Orientation | Organization |
+  Initiative | Attention to Detail | Continuous Improvement |
+  Working Under Pressure
+</div>
 
 <!-- PARA HACER QUE EL LINK ABRA EN OTRA PESTAÑA
 <a href="https://www.linkedin.com/in/marielalegoma/" target="_blank">
