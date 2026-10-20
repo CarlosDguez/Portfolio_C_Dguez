@@ -149,3 +149,4 @@ The solution standardized supplier and internal follow-up, made documentation ga
 ---
 
 [← Back to all projects]({{ '/' | relative_url }})
+<script src="{{ '/assets/js/lightbox.js' | relative_url }}" defer></script>
