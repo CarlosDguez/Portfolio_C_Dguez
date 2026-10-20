@@ -23,12 +23,12 @@ The project combined Power Automate, Office Scripts, and Excel with a documented
 ![Office Scripts](https://img.shields.io/badge/Office_Scripts-185ABD?style=for-the-badge)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge)
 ![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-6750A4?style=for-the-badge)
-![Conditional Data Extraction](https://img.shields.io/badge/Conditional_Data_Extraction-6750A4?style=for-the-badge)
-![Personalized Email Notifications](https://img.shields.io/badge/Personalized_Email_Notifications-6750A4?style=for-the-badge)
-![Documentation and Audit Follow-up](https://img.shields.io/badge/Documentation_and_Audit_Follow--up-6750A4?style=for-the-badge)
+![Personalized Email Automation](https://img.shields.io/badge/Personalized_Email_Automation-087E8B?style=for-the-badge)
+![Conditional Recipient Routing](https://img.shields.io/badge/Conditional_Recipient_Routing-087E8B?style=for-the-badge)
+![Business-Day Tracking](https://img.shields.io/badge/Business--Day_Tracking-087E8B?style=for-the-badge)
+![Escalation Management](https://img.shields.io/badge/Escalation_Management-087E8B?style=for-the-badge)
+![Process Documentation](https://img.shields.io/badge/Process_Documentation-087E8B?style=for-the-badge)
 
 ## Key Questions
 
@@ -133,3 +133,12 @@ The solution made outstanding actions visible, directed reminders to the appropr
 
 [← Back to all projects]({{ '/' | relative_url }})
 <script src="{{ '/assets/js/lightbox.js' | relative_url }}" defer></script>
+<nav class="project-side-nav" aria-label="Project navigation">
+  <a class="nav-home" href="{{ '/' | relative_url }}">
+    ← Home
+  </a>
+  <a class="nav-next"
+     href="{{ '/projects/urban-mobility-python.html' | relative_url }}">
+    Next project →
+  </a>
+</nav>
